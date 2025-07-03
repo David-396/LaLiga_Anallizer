@@ -12,3 +12,4 @@ def sidebar_filter(df):
 
     choosed = {'team':selected_team, 'season':selected_season}
     return choosed
+
